@@ -4,5 +4,5 @@ for(let  i = 0; i<arrayOfMusicians.length; i++){
 
     array.push(`${arrayOfMusicians[i]} plays ${arrayOfInstruments[i]}`);
 }
-  return results;
+  return array;
 }
