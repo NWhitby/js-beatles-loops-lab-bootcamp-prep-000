@@ -1,3 +1,3 @@
-function theBeatlesPlay(array,  ){
+function theBeatlesPlay(array, arrayOfInstruemnts ){
   
 }
