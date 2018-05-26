@@ -7,12 +7,14 @@ for(let  i = 0; i<arrayOfMusicians.length; i++){
   return array;
 }
 
-function johnLennonFacts(factsArray) {
-  const i = 0;
-  while(factsArray[i]) {
-    let answers = factsArray[i].push(!!!);
+function johnLennonFacts(array){
+  var i = 0;
+  var results =[];
+  while(array[i]){
+    results.push(array[i]+"!!!");
+    i++;
   }
-  return factsArray;
+  return results;
 }
 
 
