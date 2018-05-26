@@ -10,7 +10,7 @@ for(let  i = 0; i<arrayOfMusicians.length; i++){
 function johnLennonFacts(factsArray) {
   const i = 0;
   while(factsArray[i]) {
-    factsArray[i].push(!!!);
+    let answers = factsArray[i].push(!!!);
   }
   return factsArray;
 }
