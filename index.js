@@ -7,8 +7,10 @@ for(let  i = 0; i<arrayOfMusicians.length; i++){
   return array;
 }
 
-function johnLennonFacts() {
-  
+function johnLennonFacts(arrayOfFacts) {
+  while() {
+    
+  }
 }
 
 
