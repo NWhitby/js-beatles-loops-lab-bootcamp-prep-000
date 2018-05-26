@@ -20,7 +20,7 @@ function johnLennonFacts(array){
 function  iLoveTheBeatles (number){
 
   let array = [];
-  let i = 1;
+  let i = 0;
   
   do {
     i++;
@@ -31,6 +31,6 @@ function  iLoveTheBeatles (number){
   return (array);
 }
   else {
-    return (["I love the Beatles!"]);
+    return (['I love the Beatles!']);
   }
 }
