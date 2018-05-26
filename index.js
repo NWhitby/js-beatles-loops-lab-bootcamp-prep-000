@@ -8,11 +8,11 @@ for(let  i = 0; i<arrayOfMusicians.length; i++){
 }
 
 function johnLennonFacts(array){
-  var i = 0;
-  var results =[];
+  let i = 0;
+  const results =[];
   while(array[i]){
-    results.push(array[i]+"!!!");
-    i++;
+    results.push(`${array[i]} + !!!`);
+    i += 1;
   }
   return results;
 }
