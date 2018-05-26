@@ -8,7 +8,7 @@ for(let  i = 0; i<arrayOfMusicians.length; i++){
 }
 
 function johnLennonFacts(factsArray) {
-  while(factsArray.length ) {
+  while(factsArray[i]) {
     
   }
 }
